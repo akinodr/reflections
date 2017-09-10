@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 	
 How can you use the staging area to make sure you have one commit per logical change?
 	By keeping the changes at the staging area until a logical change occurs
+	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	When we want to add an alternative version of the project and keeping the original project as is
